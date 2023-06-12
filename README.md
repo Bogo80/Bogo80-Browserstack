@@ -1,6 +1,8 @@
 # Bogo80-Browserstack
 Selenium automation testing with python leveraging Browserstack Platform 
- BrowserStack is a cloud-based platform that allows you to perform automated browser testing on various browsers, operating systems, and devices. This guide will provide instructions on how to configure your testing environment and execute automated tests using Selenium and Python.
+
+# BrowserStack 
+is a cloud-based platform that allows you to perform automated browser testing on various browsers, operating systems, and devices. This guide will provide instructions on how to configure your testing environment and execute automated tests using Selenium and Python.
 # Set BrowserStack Credentials
 To begin, you need to set your BrowserStack credentials. You can either provide your BrowserStack username and access key directly or set them as environment variables. Here are the credentials for reference:
 userName: YourUser 
