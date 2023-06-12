@@ -13,7 +13,8 @@ BrowserStack provides reporting capabilities for your test executions. To set up
 projectName: Set the name of your project. For example, "Marketing Website."
 buildName: Specify the name of the job or testsuite being run. For instance, "browserstack build."
 buildIdentifier: This is a unique identifier that differentiates each execution. It can be customized using expressions like ${BUILD_NUMBER} or ${DATE_TIME}. Read more about build identifiers here. The current configuration sets the buildIdentifier as '#${BUILD_NUMBER}', which appends the build number.
-<img width="1081" alt="image" src="https://github.com/Bogo80/Browserstack-/assets/133137279/dffa2d09-db66-442b-a53d-53005788f79f">
+<img width="948" alt="image" src="https://github.com/Bogo80/Bogo80-Browserstack/assets/133137279/5950c402-923b-4589-9fca-a785127758d5">
+
 
 # Platforms (Browsers / Devices to Test)
 The platforms section specifies the browsers and devices you want to test on. You can choose from a wide range of configurations available on BrowserStack. The following are a few example configurations:
